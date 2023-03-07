@@ -1,7 +1,7 @@
 <h1 align="center">Aloha 👋, I'm Abdelrahman ElHamoly</h1>
 <h3 align="center">A hot shot data scientist from Egypt with Master of Science in Data Science form Queen's University, Canada. My main interests are Finance and Football.</h3>
 
-<p align="left"> <a href="https://twitter.com/a_m_el7amoly" target="blank"><img src="https://img.shields.io/twitter/follow/a_m_el7amoly?logo=twitter&style=for-the-badge" alt="a_m_el7amoly" /></a> </p>
+
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1AfNDfgYq7BlDeboyAxsN-P7ojsCu980V/view?usp=share_link](https://drive.google.com/file/d/1AfNDfgYq7BlDeboyAxsN-P7ojsCu980V/view?usp=share_link)
 
