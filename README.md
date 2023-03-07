@@ -1,5 +1,5 @@
 <h1 align="center">Aloha 👋, I'm Abdelrahman ElHamoly</h1>
-<h3 align="center">A hot shot data scientist from Egypt with a Master of Science in Data Science from Queen's University, Canada. My main interests are Finance and Football.</h3>
+<h3 align="center">A hotshot data scientist from Egypt with a Master of Science in Data Science from Queen's University, Canada. My main interests are Finance and Football.</h3>
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1AfNDfgYq7BlDeboyAxsN-P7ojsCu980V/view?usp=share_link](https://drive.google.com/file/d/1AfNDfgYq7BlDeboyAxsN-P7ojsCu980V/view?usp=share_link)
 
