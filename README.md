@@ -1,7 +1,7 @@
 <h1 align="center">Aloha 👋, I'm Abdelrahman ElHamoly</h1>
 <h3 align="center">A hotshot data scientist from Egypt with a Master of Science in AI from Queen's University, Canada. My main interests are Finance and Football.</h3>
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1AfNDfgYq7BlDeboyAxsN-P7ojsCu980V/view?usp=share_link](https://drive.google.com/file/d/1AfNDfgYq7BlDeboyAxsN-P7ojsCu980V/view?usp=share_link)
+- 📄 Know about my experiences [MY CV]([https://drive.google.com/file/d/1AfNDfgYq7BlDeboyAxsN-P7ojsCu980V/view?usp=share_link](https://drive.google.com/file/d/1lhw4sHdn5KJYFDWNtn9KhLusEQisDhAW/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
